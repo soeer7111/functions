@@ -1,0 +1,20 @@
+{
+  "name": "cloudflare-pages-auth",
+  "version": "1.0.0",
+  "description": "Cloudflare Pages project with KV database and authentication functions.",
+  "main": "videos.js",
+  "scripts": {
+    "start": "echo 'No start script defined for static project'",
+    "test": "echo 'Error: no test specified' && exit 1"
+  },
+  "keywords": [
+    "cloudflare",
+    "pages",
+    "functions",
+    "kv",
+    "auth"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
